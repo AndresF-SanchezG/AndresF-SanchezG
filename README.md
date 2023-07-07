@@ -1,4 +1,4 @@
-### Hi World!! 👋
+### Hello World!! 👋
 
 My name is Andrés Sánchez, a civil engineer since 2010. In 2019 I decided to do my postgraduate degree in business administration (MBA) seeking to enrich my professional profile as a civil engineer. This master's degree showed me unknown paths that changed the course of my life forever: Computer technology. From that moment I decided that what I had discovered was a new passion that I wanted to learn and what I wanted to dedicate myself to.
 
