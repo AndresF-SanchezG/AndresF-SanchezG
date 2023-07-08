@@ -4,6 +4,8 @@ My name is Andrés Sánchez, I am from Colombia, a civil engineer since 2010. In
 
 ### My Schools:
 
+<img src="https://vetores.org/d/freecodecamp.svg" height="40" width="40" alt="HTML5"/>
+
 <img src="https://github.com/AndresF-SanchezG/AndresF-SanchezG/assets/113924667/8660a5ed-5da0-4ab6-8155-2a663cc6e41d" height="30" width="200" alt="HTML5"/>
 
 ### Frontend Pillars:
