@@ -22,7 +22,7 @@ My name is Andrés Sánchez, I am from Colombia, a civil engineer since 2010. In
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" width="40"/>
 
 ---
-I've defined my own learning path based mainly in the [FreeCodeCamp](https://www.freecodecamp.org/learn) curriculum including the free challenges of [FrontendMentor.io](https://www.frontendmentor.io/challenges?types=free) that you can try to improve your skills in the foundation of web development: HTML, CSS and Javascript. You will see my projects or challenges solved in each phase below and any comment or sugestion is welcomed.
+My learning path began with the study of databases, however, people knowledgeable in technology-related issues advised me to follow the [FreeCodeCamp](https://www.freecodecamp.org/learn) methodology, which includes libraries and css frameworks, frontend, backend themes and database.
 ## Phase 1. Responsive Web Design 🌍
 
 <!--
