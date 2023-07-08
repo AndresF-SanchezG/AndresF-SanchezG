@@ -9,6 +9,9 @@ My name is Andrés Sánchez, I am from Colombia, a civil engineer since 2010. In
 ### Frontend Pillars:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40" alt="CSS"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="Javascript"/>
 
+### CSS Libraries:
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40" alt="Tailwindcss"/>
+
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
