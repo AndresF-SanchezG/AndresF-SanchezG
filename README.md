@@ -4,7 +4,7 @@ My name is Andrés Sánchez, I am from Colombia, a civil engineer since 2010. In
 
 ### My Schools:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg" height="25" width="200" alt="HTML5"/> <img src="https://ww1.freelogovectors.net/wp-content/uploads/2021/06/platzi-logo-freelogovectors.net_.png?lossy=1&w=2560&ssl=1" height="25" width="200" alt="HTML5"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg" height="25" width="200" alt="HTML5"/> <img src="https://ww1.freelogovectors.net/wp-content/uploads/2021/06/platzi-logo-freelogovectors.net_.png?lossy=1&w=2560&ssl=1" height="25" width="300" alt="HTML5"/>
 
 ### Frontend Pillars:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40" alt="CSS"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="Javascript"/>
