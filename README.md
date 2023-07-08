@@ -3,7 +3,7 @@
 My name is Andrés Sánchez, I am from Colombia, a civil engineer since 2010. In 2019 I decided to do my postgraduate degree in business administration (MBA) seeking to enrich my professional profile as a civil engineer. This master's degree showed me unknown paths that changed the course of my life forever: Computer technology. From that moment I decided that what I had discovered was a new passion that I wanted to learn and what I wanted to dedicate myself to.
 
 ### Frontend Pillars:
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" id="html-5"><path fill="#E44D26" d="M9.032 2l10.005 112.093 44.896 12.401 45.02-12.387 10.015-112.107h-109.936zm89.126 26.539l-.627 7.172-.276 3.289h-52.665000000000006l1.257 14h50.156000000000006l-.336 3.471-3.233 36.119-.238 2.27-28.196 7.749v.002l-.034.018-28.177-7.423-1.913-21.206h13.815000000000001l.979 10.919 15.287 4.081h.043v-.546l15.355-3.875 1.604-17.579h-47.698l-3.383-38.117-.329-3.883h68.939l-.33 3.539z"></path></svg>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/>
 
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
