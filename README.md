@@ -16,7 +16,10 @@ My name is Andrés Sánchez, I am from Colombia, a civil engineer since 2010. In
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="40" alt="Vuejs"/>
 
 ### Backend Technologies:
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Nodejs"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="40" alt="NPM"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="40" width="40" alt="Express.js"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="40" alt="mongoDb"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Nodejs"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="40" alt="NPM"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="40" width="40" alt="Express.js"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="40" alt="postgres"/>
+
+### Development Tools:
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" width="40"/>
 
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
