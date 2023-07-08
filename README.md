@@ -12,6 +12,9 @@ My name is Andrés Sánchez, I am from Colombia, a civil engineer since 2010. In
 ### CSS Libraries:
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40" alt="Tailwindcss"/>
 
+### Frontend Frameworks/Libraries:
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="40" alt="Vuejs"/>
+
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
