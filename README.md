@@ -4,6 +4,8 @@ My name is Andrés Sánchez, I am from Colombia, a civil engineer since 2010. In
 
 ### Frontend Pillars:
 
+icons/html5/html5-original.svg
+
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
