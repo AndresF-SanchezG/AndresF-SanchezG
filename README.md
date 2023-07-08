@@ -21,6 +21,10 @@ My name is Andrés Sánchez, I am from Colombia, a civil engineer since 2010. In
 ### Development Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" width="40"/>
 
+---
+I've defined my own learning path based mainly in the [FreeCodeCamp](https://www.freecodecamp.org/learn) curriculum including the free challenges of [FrontendMentor.io](https://www.frontendmentor.io/challenges?types=free) that you can try to improve your skills in the foundation of web development: HTML, CSS and Javascript. You will see my projects or challenges solved in each phase below and any comment or sugestion is welcomed.
+## Phase 1. Responsive Web Design 🌍
+
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
