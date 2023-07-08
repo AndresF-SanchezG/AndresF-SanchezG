@@ -3,8 +3,11 @@
 My name is Andrés Sánchez, I am from Colombia, a civil engineer since 2010. In 2019 I decided to do my postgraduate degree in business administration (MBA) seeking to enrich my professional profile as a civil engineer. This master's degree showed me unknown paths that changed the course of my life forever: Computer technology. From that moment I decided that what I had discovered was a new passion that I wanted to learn and what I wanted to dedicate myself to.
 
 ### My Schools:
+
 <img src="https://vetores.org/d/freecodecamp.svg" height="200" width="200" alt="HTML5"/>
+
 ### Frontend Pillars:
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40" alt="CSS"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="Javascript"/>
 
 <!--
