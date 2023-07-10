@@ -1,6 +1,6 @@
 ### Hello World!! 👋
 
-My name is Andrés Sánchez, I am from Colombia, a civil engineer since 2010. In 2019 I decided to do my postgraduate degree in business administration (MBA) seeking to enrich my professional profile as a civil engineer. This master's degree showed me unknown paths that changed the course of my life forever: Computer technology. From that moment I decided that what I had discovered was a new passion that I wanted to learn and what I wanted to dedicate myself to.
+My name is Andrés Sánchez, and I am from Colombia. I have been working as a civil engineer since 2010. In 2019, I made the decision to pursue a postgraduate degree in business administration (MBA) to enhance my professional profile as a civil engineer. This master's degree opened up new avenues for me and completely transformed the trajectory of my life. It introduced me to the world of computer technology, which I discovered to be a newfound passion that I am eager to explore and dedicate myself to.
 
 ### My Schools:
 
