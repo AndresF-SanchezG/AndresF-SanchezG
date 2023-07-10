@@ -38,7 +38,7 @@ Projects developed with plain HTML and CSS:
 
 Projects developed with HTML, TailwindCSS as frontende development environment integrated to Vercel.
 
-- [x] Challenge 11. [Travel page - mode movil](https://proyecto2-agencia-de-viajes-ppb.vercel.app/?vercelToolbarCode=ygFrMGoHhvjlYca)
+- [x] Challenge 11. [Travel page - mode movil](https://github.com/AndresF-SanchezG/proyecto2-AgenciaDeViajes)
 
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
