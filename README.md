@@ -27,6 +27,7 @@ My learning path began with the study of databases, however, people knowledgeabl
 Projects developed with plain HTML and CSS:
 - [x] Challenge 1. [Google clone](https://github.com/AndresF-SanchezG/proyecto1-cloneGoogle)
 - [x] Challenge 2. [BatataBit](https://github.com/AndresF-SanchezG/proyecto3-batatabit)
+- [x] Challenge 3. [Product preview card component](https://andresf-sanchezg.github.io/reto1/)
 
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
