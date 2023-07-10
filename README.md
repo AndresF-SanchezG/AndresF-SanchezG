@@ -39,9 +39,10 @@ Projects developed with plain HTML and CSS:
 ## Phase 2. JavaScript Algorithms and Data Structures 🚀
 
 Projects developed with HTML, CSS and Javascript as frontende development environment integrated to Vercel.
-- [x] Challenge 12. [Travel page - mode movil](https://github.com/AndresF-SanchezG/proyecto2-AgenciaDeViajes)
+- [x] Challenge 11. [Calculator](https://github.com/AndresF-SanchezG/challenge-9.0)
 
-- [x] Challenge 11. [Travel page - mode movil](https://github.com/AndresF-SanchezG/proyecto2-AgenciaDeViajes)
+Projects developed with HTML, Tailwind and Javascript as frontende development environment integrated to Vercel.
+- [x] Challenge 12. [Travel page - mode movil](https://github.com/AndresF-SanchezG/proyecto2-AgenciaDeViajes)
 
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
