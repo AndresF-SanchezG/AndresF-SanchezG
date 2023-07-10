@@ -22,7 +22,8 @@ My name is Andrés Sánchez, and I am from Colombia. I have been working as a ci
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" width="40"/>
 
 ---
-My learning path began with the study of databases, however, people knowledgeable in technology-related issues advised me to follow the [FreeCodeCamp](https://www.freecodecamp.org/learn) methodology, which includes libraries and css frameworks, frontend, backend themes and database.
+My learning journey started with the study of databases. However, individuals well-versed in technology recommended that I follow the FreeCodeCamp methodology, which encompasses libraries, CSS frameworks, frontend and backend development, as well as database management.
+
 ## Phase 1. Responsive Web Design 🌍
 Projects developed with plain HTML and CSS:
 - [x] Challenge 1. [Google clone](https://github.com/AndresF-SanchezG/proyecto1-cloneGoogle)
