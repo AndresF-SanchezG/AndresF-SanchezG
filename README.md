@@ -51,6 +51,12 @@ Projects developed with HTML, Tailwind and Javascript as frontende development e
 - [x] Challenge 4. [Build a JavaScript Calculator](https://codepen.io/Andr-s-Fernando-Sanchez-Galarza/pen/oNarmQx)
 - [x] Challenge 5. [Build a 25 + 5 Clock](https://codepen.io/Andr-s-Fernando-Sanchez-Galarza/pen/YzRzwpe)
 
+## Phase 4. Relational Database 📊
+- [x] Challenge 1. [Celestial Bodies Database](https://github.com/AndresF-SanchezG/postgres-challenges)
+- [x] Challenge 2. [World Cup Database](https://github.com/AndresF-SanchezG/postgres-challenge2)
+- [x] Challenge 3. [Salon Appointment Scheduler](https://github.com/AndresF-SanchezG/postgres-challenge3)
+- [x] Challenge 4. [Periodic Table Database](https://github.com/AndresF-SanchezG/postgres-challenge4)
+- [x] Challenge 5. [Number Guessing Game](https://github.com/AndresF-SanchezG/postgres-challenge5)
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
