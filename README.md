@@ -24,6 +24,7 @@ My name is Andrés Sánchez, I am from Colombia, a civil engineer since 2010. In
 ---
 My learning path began with the study of databases, however, people knowledgeable in technology-related issues advised me to follow the [FreeCodeCamp](https://www.freecodecamp.org/learn) methodology, which includes libraries and css frameworks, frontend, backend themes and database.
 ## Phase 1. Responsive Web Design 🌍
+Projects developed with plain HTML and CSS:
 
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
