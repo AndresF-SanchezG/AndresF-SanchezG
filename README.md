@@ -36,7 +36,10 @@ Projects developed with plain HTML and CSS:
 - [x] Challenge 9. [Profile card component](https://github.com/AndresF-SanchezG/challenge7)
 - [x] Challenge 10. [Social proof section](https://github.com/AndresF-SanchezG/Challenge8)
 
-Projects developed with HTML, TailwindCSS as frontende development environment integrated to Vercel.
+## Phase 2. JavaScript Algorithms and Data Structures 🚀
+
+Projects developed with HTML, CSS and Javascript as frontende development environment integrated to Vercel.
+- [x] Challenge 12. [Travel page - mode movil](https://github.com/AndresF-SanchezG/proyecto2-AgenciaDeViajes)
 
 - [x] Challenge 11. [Travel page - mode movil](https://github.com/AndresF-SanchezG/proyecto2-AgenciaDeViajes)
 
