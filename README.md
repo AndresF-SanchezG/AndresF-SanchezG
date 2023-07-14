@@ -64,7 +64,7 @@ Projects developed with HTML, Tailwind and Javascript as frontend development en
 - [x] Challenge 2. [Request Header Parser Microservice](https://replit.com/@AndresF-Sanchez/boilerplate-project-headerparser)
 - [x] Challenge 3. [URL Shortener Microservice](https://replit.com/@AndresF-Sanchez/boilerplate-project-urlshortener)
 - [x] Challenge 4. [File Metadata Microservice](https://replit.com/@AndresF-Sanchez/boilerplate-project-filemetadata)
-- [x] Challenge 5. [File Metadata Microservice](https://replit.com/@AndresF-Sanchez/boilerplate-project-filemetadata)
+
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
