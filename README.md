@@ -50,7 +50,7 @@ Projects developed with HTML, Tailwind and Javascript as frontend development en
 - [x] Challenge 2. [Build a Markdown Previewer](https://github.com/AndresF-SanchezG/challenge2-react.git)
 - [x] Challenge 3. [Build a Drum Machine](https://github.com/AndresF-SanchezG/challenge3-react.git)
 - [x] Challenge 4. [Build a JavaScript Calculator](https://github.com/AndresF-SanchezG/challenge4-react.git)
-- [x] Challenge 5. [Build a 25 + 5 Clock](https://codepen.io/Andr-s-Fernando-Sanchez-Galarza/pen/YzRzwpe)
+- [x] Challenge 5. [Build a 25 + 5 Clock](https://github.com/AndresF-SanchezG/challenge5-react.git)
 
 ## Phase 4. Relational Database 📊
 - [x] Challenge 1. [Celestial Bodies Database](https://github.com/AndresF-SanchezG/postgres-challenges)
