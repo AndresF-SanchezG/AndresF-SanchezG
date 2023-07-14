@@ -47,7 +47,7 @@ Projects developed with HTML, Tailwind and Javascript as frontend development en
 
 ## Phase 3. Front End Development Libraries(React) 📚
 - [x] Challenge 1. [Build a Random Quote Machine](https://github.com/AndresF-SanchezG/challenge1-react.git)
-- [x] Challenge 2. [Build a Markdown Previewer](https://codepen.io/Andr-s-Fernando-Sanchez-Galarza/pen/XWxwKEg)
+- [x] Challenge 2. [Build a Markdown Previewer](https://github.com/AndresF-SanchezG/challenge2-react.git)
 - [x] Challenge 3. [Build a Drum Machine](https://codepen.io/Andr-s-Fernando-Sanchez-Galarza/pen/JjmqNZK)
 - [x] Challenge 4. [Build a JavaScript Calculator](https://codepen.io/Andr-s-Fernando-Sanchez-Galarza/pen/oNarmQx)
 - [x] Challenge 5. [Build a 25 + 5 Clock](https://codepen.io/Andr-s-Fernando-Sanchez-Galarza/pen/YzRzwpe)
