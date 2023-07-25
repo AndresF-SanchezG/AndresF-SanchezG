@@ -1,6 +1,12 @@
 ### Hello World!! 👋
 
-My name is Andrés Sánchez, and I am from Colombia. I have been working as a civil engineer since 2010. In 2019, I made the decision to pursue a postgraduate degree in business administration (MBA) to enhance my professional profile as a civil engineer. This master's degree opened up new avenues for me and completely transformed the trajectory of my life. It introduced me to the world of computer technology, which I discovered to be a newfound passion that I am eager to explore and dedicate myself to.
+For 8 years, I worked professionally as a civil engineer. After analyzing global environments, trends, and personal preferences, I made the decision to redirect my professional path towards software development.
+
+For approximately a year and a half, I dedicated a significant portion of my free time to studying and familiarizing myself with topics related to frontend, backend, databases, data science, and artificial intelligence.
+
+At this point in my journey, having explored the various branches I mentioned earlier, I can confidently say that I possess strong knowledge as a frontend developer, and I believe it is a solid entry point into the technology industry. Once I strengthen my skills as a frontend developer, my next objective will be to enhance my expertise in data science, enabling me to take on roles in the future such as business intelligence or data science.
+
+I consider myself a dynamic and proactive individual with a strong sense of responsibility. I have a keen interest in continuous learning, excellent communication skills, adaptability to diverse environments, and good interpersonal relationships.
 
 ### My Schools:
 
