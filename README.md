@@ -47,9 +47,10 @@ Projects developed with plain HTML and CSS:
 
 Projects developed with HTML, CSS and Javascript as frontend development environment integrated to Vercel.
 - [x] Challenge 1. [Calculator](https://github.com/AndresF-SanchezG/challenge-9.0)
+- [x] Challenge 2. [My Brief](https://github.com/AndresF-SanchezG/portafolio.git)
 
 Projects developed with HTML, Tailwind and Javascript as frontend development environment integrated to Vercel.
-- [x] Challenge 2. [Travel page - mode movil](https://github.com/AndresF-SanchezG/proyecto2-AgenciaDeViajes)
+- [x] Challenge 3. [Travel page - mode movil](https://github.com/AndresF-SanchezG/proyecto2-AgenciaDeViajes)
 
 ## Phase 3. Front End Development Libraries(React) 📚
 - [x] Challenge 1. [Build a Random Quote Machine](https://github.com/AndresF-SanchezG/challenge1-react.git)
