@@ -46,7 +46,7 @@ Projects developed with plain HTML and CSS:
 ## Phase 2. JavaScript Algorithms and Data Structures 🚀
 
 Projects developed with HTML, CSS and Javascript as frontend development environment integrated to Vercel.
-- [x] Challenge 1. [My Brief](https://github.com/AndresF-SanchezG/portafolio.git)
+- [x] Challenge 1. [Portafolio](https://github.com/AndresF-SanchezG/portafolio.git)
 - [x] Challenge 2. [Calculator](https://github.com/AndresF-SanchezG/challenge-9.0)
 
 
