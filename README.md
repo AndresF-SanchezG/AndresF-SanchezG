@@ -54,7 +54,7 @@ Projects developed with HTML, Tailwind and Javascript as frontend development en
 - [x] Challenge 3. [Travel page - mode movil](https://github.com/AndresF-SanchezG/proyecto2-AgenciaDeViajes)
 
 ## Phase 3. Front End Development Libraries(React) 📚
-- [x] Challenge 1. [Todo App](https://github.com/AndresF-SanchezG/challenge1-react.git)
+- [x] Challenge 1. [Todo App](https://github.com/AndresF-SanchezG/TODOS_APP.git)
 - [x] Challenge 2. [Build a Markdown Previewer](https://github.com/AndresF-SanchezG/challenge2-react.git)
 - [x] Challenge 3. [Build a Drum Machine](https://github.com/AndresF-SanchezG/challenge3-react.git)
 - [x] Challenge 4. [Build a JavaScript Calculator](https://github.com/AndresF-SanchezG/challenge4-react.git)
