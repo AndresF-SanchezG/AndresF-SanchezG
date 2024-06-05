@@ -4,7 +4,7 @@ Ingeniero Civil con experiencia en presupuestos, costos de obra y programación 
 
 ### My Schools:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg" height="65" width="220" alt="HTML5"/>  <img src="https://www.naskadigital.com/wp-content/uploads/2020/06/logo-naska-horizontal-negro.png"/> <img src="https://seeklogo.com/images/F/frontend-mentor-logo-53570808B0-seeklogo.com.png" height="50" width="280" alt="HTML5"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg" height="65" width="220" alt="HTML5"/>  <img src="https://www.naskadigital.com/wp-content/uploads/2020/06/logo-naska-horizontal-negro.png" height="50" width="280/> <img src="https://seeklogo.com/images/F/frontend-mentor-logo-53570808B0-seeklogo.com.png" height="50" width="280" alt="HTML5"/>
 
 ### Frontend Pillars:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40" alt="CSS"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="Javascript"/>
