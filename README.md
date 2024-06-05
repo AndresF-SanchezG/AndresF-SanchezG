@@ -2,7 +2,7 @@
 
 Ingeniero Civil con experiencia en presupuestos, costos de obra y programación de obra. Apasionado por el desarrollo de software y el mundo BIM. Poseo habilidades en software BIM como Revit, NavisWorks, InfraWorks, Civil 3D y Recap. Dedicado a fortalecer mis conocimientos en lenguajes de programación como C# y Python para aplicarlos en la profesión, tanto en el análisis de datos como en la automatización de tareas
 
-### My Schools:
+### Mis Escuelas de Aprendizaje:
 
 <img src="https://www.naskadigital.com/wp-content/uploads/2020/06/logo-naska-horizontal-negro.png" height="125" width="250" alt="Naska"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg" height="70" width="240" alt="Platzi"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg" height="70" width="250" alt="FreeCodeCamp"/>
 
