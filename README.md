@@ -11,7 +11,7 @@ Civil Engineer with experience in budgeting, construction costs, and project sch
 ### My Software BIM:
 
 
-<img src="https://www.sonda-mco.com/assets/images/badges/autodesk-revit-product-icon.svg" height="130" width="180" alt="Naska"/> <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s7313c39860d70dab/image/ib8c4d507573fe6c2/version/1680077897/image.png" height="130" width="131" alt="Platzi"/><img src="https://civilsurveysolutions.com.au/wp-content/uploads/autodesk-civil-3d-product-icon-social-400-1.png" height="130" width="131" alt="Platzi"/>
+<img src="https://www.sonda-mco.com/assets/images/badges/autodesk-revit-product-icon.svg" height="130" width="150" alt="Naska"/> <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s7313c39860d70dab/image/ib8c4d507573fe6c2/version/1680077897/image.png" height="130" width="131" alt="Platzi"/><img src="https://civilsurveysolutions.com.au/wp-content/uploads/autodesk-civil-3d-product-icon-social-400-1.png" height="130" width="131" alt="Platzi"/>
 
 ### Frontend Pillars:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40" alt="CSS"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="Javascript"/>
