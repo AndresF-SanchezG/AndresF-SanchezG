@@ -6,7 +6,7 @@ Civil Engineer with experience in budgeting, construction costs, and project sch
 ### My Schools:
 
 
-<img src="https://www.naskadigital.com/wp-content/uploads/2020/06/logo-naska-horizontal-negro.png" height="125" width="250" alt="Naska"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg" height="70" width="220" alt="Platzi"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg" height="70" width="250" alt="FreeCodeCamp"/>
+<img src="https://www.naskadigital.com/wp-content/uploads/2020/06/logo-naska-horizontal-negro.png" height="120" width="250" alt="Naska"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg" height="70" width="220" alt="Platzi"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg" height="70" width="250" alt="FreeCodeCamp"/>
 
 ### My Software BIM:
 
