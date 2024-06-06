@@ -8,6 +8,11 @@ Ingeniero Civil con experiencia en presupuestos, costos de obra y programación 
 
 <img src="https://www.naskadigital.com/wp-content/uploads/2020/06/logo-naska-horizontal-negro.png" height="130" width="250" alt="Naska"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg" height="70" width="220" alt="Platzi"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg" height="70" width="250" alt="FreeCodeCamp"/>
 
+### Mis Escuelas de Aprendizaje:
+
+
+<img src="https://www.naskadigital.com/wp-content/uploads/2020/06/logo-naska-horizontal-negro.png" height="130" width="250" alt="Naska"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg" height="70" width="220" alt="Platzi"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg" height="70" width="250" alt="FreeCodeCamp"/>
+
 
 ### Frontend Pillars:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40" alt="CSS"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="Javascript"/>
