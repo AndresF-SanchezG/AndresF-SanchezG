@@ -11,7 +11,7 @@ Civil Engineer with experience in budgeting, construction costs, and project sch
 ### My Software BIM:
 
 
-<img src="https://www.sonda-mco.com/assets/images/badges/autodesk-revit-product-icon.svg" height="130" width="250" alt="Naska"/> <img src="https://cadac.com/globalassets/software/fy23---autodesk/autodesk-navisworks-manage-small-social-400.png" height="70" width="220" alt="Platzi"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg" height="70" width="250" alt="FreeCodeCamp"/>
+<img src="https://www.sonda-mco.com/assets/images/badges/autodesk-revit-product-icon.svg" height="130" width="250" alt="Naska"/> <img src="https://sonda-autodeskvad.com/assets/images/badges/autodesk-navisworks-product-icon.svg" height="70" width="220" alt="Platzi"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg" height="70" width="250" alt="FreeCodeCamp"/>
 
 
 ### Frontend Pillars:
