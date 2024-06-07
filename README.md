@@ -23,8 +23,8 @@ Civil Engineer with experience in budgeting, construction costs, and project sch
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/240px-Microsoft_.NET_logo.svg.png" height="130" width="126" alt="Platzi"/><img src="https://ih1.redbubble.net/image.523773870.2261/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u5.jpg" height="130" width="126" alt="Platzi"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bSt16XVIR9526s9Rs6OUTds5FV8oZ_vX1w&s" height="130" width="126" alt="Platzi"/>
 
-### Frontend Pillars:
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40" alt="CSS"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="Javascript"/>
+### My DB:
+<img src="https://www.comparasoftware.cl/media/451" height="130" width="126" alt="Platzi"/><img src="https://ih1.redbubble.net/image.523773870.2261/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u5.jpg" height="130" width="126" alt="Platzi"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bSt16XVIR9526s9Rs6OUTds5FV8oZ_vX1w&s" height="130" width="126" alt="Platzi"/>
 
 ### CSS Libraries:
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40" alt="Tailwindcss"/>
