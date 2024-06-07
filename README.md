@@ -21,7 +21,7 @@ Civil Engineer with experience in budgeting, construction costs, and project sch
 ### My Frameworks:
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/240px-Microsoft_.NET_logo.svg.png" height="130" width="126" alt="Platzi"/><img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" height="130" width="126" alt="Platzi"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="130" width="126" alt="Platzi"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/240px-Microsoft_.NET_logo.svg.png" height="130" width="126" alt="Platzi"/><img src="https://ih1.redbubble.net/image.523773870.2261/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u5.jpg" height="130" width="126" alt="Platzi"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="130" width="126" alt="Platzi"/>
 
 ### Frontend Pillars:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="40" width="40" alt="CSS"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="Javascript"/>
