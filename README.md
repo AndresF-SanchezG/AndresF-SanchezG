@@ -1,6 +1,6 @@
 ### Hello World!! 👋
 
-Civil Engineer with experience in budgeting, construction costs, and project scheduling. Passionate about software development and the BIM world. I have skills in BIM software such as Revit, NavisWorks, InfraWorks, Civil 3D, and Recap. I possess solid basic knowledge in programming languages such as C# and Python, which I use to apply in the profession for data analysis from various software, task automation, and communication between programs.
+Civil Engineer with experience in budgeting, construction costs, and project scheduling. Passionate about software development and the BIM world. I have skills in BIM software such as Revit, NavisWorks, InfraWorks, Civil 3D, and Recap. I possess solid basic knowledge in programming languages such as C#, Python y VBA, which I use to apply in the profession for data analysis from various software, task automation, and communication between programs.
 
 
 ### My Schools:
