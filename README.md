@@ -31,7 +31,7 @@ Civil Engineer with experience in budgeting, construction costs, and project sch
 
 ## My projects BIM 🌍
 
-- [x] Project 1. [Google clone](https://github.com/AndresF-SanchezG/proyecto1-cloneGoogle)
+- [x] Project 1. [Residential building project](https://github.com/AndresF-SanchezG/proyecto1-cloneGoogle)
 
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
