@@ -27,51 +27,11 @@ Civil Engineer with experience in budgeting, construction costs, and project sch
 <img src="https://www.comparasoftware.cl/media/451" height="130" width="126" alt="Platzi"/><img src="https://e1.pxfuel.com/desktop-wallpaper/677/517/desktop-wallpaper-mysql.jpg" height="130" width="165" alt="Platzi"/>
 
 ---
-### MY PROJECTS
+### MY PROJECTS (CONSTRUCTION)
 
-## Phase 1. Responsive Web Design 🌍
-Projects developed with plain HTML and CSS:
-- [x] Challenge 1. [Google clone](https://github.com/AndresF-SanchezG/proyecto1-cloneGoogle)
-- [x] Challenge 2. [BatataBit](https://github.com/AndresF-SanchezG/proyecto3-batatabit)
-- [x] Challenge 3. [Product preview card component](https://github.com/AndresF-SanchezG/reto1)
-- [x] Challenge 4. [QR code component](https://github.com/AndresF-SanchezG/reto2)
-- [x] Challenge 5. [NFT preview card component](https://github.com/AndresF-SanchezG/reto3)
-- [x] Challenge 6. [Order summary component](https://github.com/AndresF-SanchezG/reto4)
-- [x] Challenge 7. [Stats preview card component](https://github.com/AndresF-SanchezG/reto5)
-- [x] Challenge 8. [3-column preview card component](https://github.com/AndresF-SanchezG/reto6.)
-- [x] Challenge 9. [Profile card component](https://github.com/AndresF-SanchezG/challenge7)
-- [x] Challenge 10. [Social proof section](https://github.com/AndresF-SanchezG/Challenge8)
+## My projects BIM 🌍
 
-## Phase 2. JavaScript Algorithms and Data Structures 🚀
-
-Projects developed with HTML, CSS and Javascript as frontend development environment integrated to Vercel.
-- [x] Challenge 1. [Portafolio](https://github.com/AndresF-SanchezG/portafolio.git)
-- [x] Challenge 2. [Calculator](https://github.com/AndresF-SanchezG/challenge-9.0)
-
-
-Projects developed with HTML, Tailwind and Javascript as frontend development environment integrated to Vercel.
-- [x] Challenge 3. [Travel page - mode movil](https://github.com/AndresF-SanchezG/proyecto2-AgenciaDeViajes)
-
-## Phase 3. Front End Development Libraries(React) 📚
-- [x] Challenge 1. [Todo App](https://github.com/AndresF-SanchezG/TODOS_APP.git)
-- [x] Challenge 2. [Build a Markdown Previewer](https://github.com/AndresF-SanchezG/challenge2-react.git)
-- [x] Challenge 3. [Build a Drum Machine](https://github.com/AndresF-SanchezG/challenge3-react.git)
-- [x] Challenge 4. [Build a JavaScript Calculator](https://github.com/AndresF-SanchezG/challenge4-react.git)
-- [x] Challenge 5. [Build a 25 + 5 Clock](https://github.com/AndresF-SanchezG/challenge5-react.git)
-
-## Phase 4. Relational Database 📊
-- [x] Challenge 1. [Celestial Bodies Database](https://github.com/AndresF-SanchezG/postgres-challenges)
-- [x] Challenge 2. [World Cup Database](https://github.com/AndresF-SanchezG/postgres-challenge2)
-- [x] Challenge 3. [Salon Appointment Scheduler](https://github.com/AndresF-SanchezG/postgres-challenge3)
-- [x] Challenge 4. [Periodic Table Database](https://github.com/AndresF-SanchezG/postgres-challenge4)
-- [x] Challenge 5. [Number Guessing Game](https://github.com/AndresF-SanchezG/postgres-challenge5)
-
-## Phase 5. Back End Development and APIs 🏗
-- [x] Challenge 1. [Timestamp Microservice](https://github.com/AndresF-SanchezG/challenge1-backendAndApis.git)
-- [x] Challenge 2. [Request Header Parser Microservice](https://github.com/AndresF-SanchezG/challenge2-backendAndApis.git)
-- [x] Challenge 3. [URL Shortener Microservice](https://github.com/AndresF-SanchezG/challenge3-backendAndApis.git)
-- [x] Challenge 4. [File Metadata Microservice](https://github.com/AndresF-SanchezG/challenge4-backendAndApis.git)
-
+- [x] Project 1. [Google clone](https://github.com/AndresF-SanchezG/proyecto1-cloneGoogle)
 
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
