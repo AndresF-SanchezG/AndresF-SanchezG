@@ -31,7 +31,7 @@ Civil Engineer with experience in budgeting, construction costs, and project sch
 
 ## My Projects BIM 🌍
 
-- [x] Project 1. [Residential building project - Modeling and information management](https://github.com/AndresF-SanchezG/Residential-building-project.git)
+- [x] Project 1. [Residential building project - Modeling, information management and Coordination](https://github.com/AndresF-SanchezG/Residential-building-project.git)
 
 ## My Personal Projects 🌍
 
