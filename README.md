@@ -29,9 +29,13 @@ Civil Engineer with experience in budgeting, construction costs, and project sch
 ---
 ### MY PROJECTS (CONSTRUCTION)
 
-## My projects BIM 🌍
+## My Projects BIM 🌍
 
 - [x] Project 1. [Residential building project](https://github.com/AndresF-SanchezG/Residential-building-project.git)
+
+## My Personal Projects 🌍
+
+- [x] Project 2. [Residential building project](https://github.com/AndresF-SanchezG/Residential-building-project.git)
 
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
