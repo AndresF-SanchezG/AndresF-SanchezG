@@ -32,8 +32,6 @@ Civil Engineer with experience in budgeting, construction costs, and project sch
 ### Frontend Frameworks/Libraries:
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="40" alt="Vuejs"/>
 
-### Backend Technologies:
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Nodejs"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="40" alt="NPM"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="40" width="40" alt="Express.js"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="40" alt="postgres"/>
 
 ### Development Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" width="40"/>
@@ -89,6 +87,10 @@ Projects developed with HTML, Tailwind and Javascript as frontend development en
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### Backend Technologies:
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Nodejs"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="40" alt="NPM"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" height="40" width="40" alt="Express.js"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="40" alt="postgres"/>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
