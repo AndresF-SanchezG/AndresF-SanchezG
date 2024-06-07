@@ -26,16 +26,6 @@ Civil Engineer with experience in budgeting, construction costs, and project sch
 ### My DB:
 <img src="https://www.comparasoftware.cl/media/451" height="130" width="126" alt="Platzi"/><img src="https://e1.pxfuel.com/desktop-wallpaper/677/517/desktop-wallpaper-mysql.jpg" height="130" width="165" alt="Platzi"/>
 
-### CSS Libraries:
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40" alt="Tailwindcss"/>
-
-### Frontend Frameworks/Libraries:
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="40" alt="Vuejs"/>
-
-
-### Development Tools:
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40" width="40"/>
-
 ---
 My learning journey started with the study of databases. However, individuals well-versed in technology recommended that I follow the FreeCodeCamp methodology, which encompasses libraries, CSS frameworks, frontend and backend development, as well as database management.
 
