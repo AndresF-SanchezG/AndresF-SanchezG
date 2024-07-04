@@ -27,7 +27,7 @@ Civil Engineer with experience in budgeting, construction costs, and project sch
 <img src="https://www.comparasoftware.cl/media/451" height="130" width="126" alt="Platzi"/><img src="https://e1.pxfuel.com/desktop-wallpaper/677/517/desktop-wallpaper-mysql.jpg" height="130" width="165" alt="Platzi"/>
 
 ---
-### MY PROJECTS (CONSTRUCTION)
+### MY PROJECTS 
 
 ## My Projects BIM 🌍
 
