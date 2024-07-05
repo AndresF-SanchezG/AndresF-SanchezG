@@ -36,8 +36,8 @@ Civil Engineer with experience in budgeting, construction costs, and project sch
 
 ## My Personal Projects 💻
 
-- [x] Project 2. [Aterriza-Frontend](https://github.com/AndresF-SanchezG/aterriza-application.git)
-- [x] Project 3. [Aterriza-Backend](https://github.com/AndresF-SanchezG/HotelQuotesPython.git)
+- [x] Project 2. [Aterriza-Backend](https://github.com/AndresF-SanchezG/HotelQuotesPython.git)
+- [x] Project 1. [Aterriza-Frontend](https://github.com/AndresF-SanchezG/aterriza-application.git)
 
 <!--
 **AndresF-SanchezG/AndresF-SanchezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
