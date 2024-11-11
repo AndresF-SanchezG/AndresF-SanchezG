@@ -29,14 +29,14 @@ Civil Engineer with experience in budgeting, construction costs, and project sch
 ---
 ### MY PROJECTS 
 
-## My Projects BIM 🌍
+## My BIM Projects 👷‍♂️
 
 - [x] Project 4. [Api Revit - Template Application IExternalApplication Revit with C# - IExternalApplication ](https://github.com/AndresF-SanchezG/templateApplicationIExternalApplication.git) 💻
 - [x] Project 3. [Api Revit - My First Application Revit with C# - IExternalApplication](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalApplication.git) 💻
 - [x] Project 2. [Api Revit - My First Application Revit with C# - IExternalCommand](https://github.com/AndresF-SanchezG/MyFirstApplication-IExternalCommand.git) 💻
 - [x] Project 1. [Residential building project - Modeling, information management and Coordination](https://github.com/AndresF-SanchezG/Residential-building-project.git) 🏗️
 
-## My Personal Projects 💻
+## My Software development Projects 💻
 
 - [x] Project 2. [Aterriza-Backend](https://github.com/AndresF-SanchezG/HotelQuotesPython.git)
 - [x] Project 1. [Aterriza-Frontend](https://github.com/AndresF-SanchezG/aterriza-application.git)
